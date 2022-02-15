@@ -27,7 +27,7 @@ v2ray_port=$v2ray_port
 v2ray_id=$uuid
 
 #---- alterId -----
-alterId=233
+alterId=0
 
 #---- V2Ray 动态端口开始 -----
 v2ray_dynamicPort_start=$v2ray_dynamicPort_start
