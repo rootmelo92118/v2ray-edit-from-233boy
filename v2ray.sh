@@ -2601,9 +2601,13 @@ menu() {
 		echo
 		echo "反馈问题: https://github.com/233boy/v2ray/issues"
 		echo
-		echo "TG 频道: https://t.me/tg2333"
+		echo "原作者: https://github.com/233boy"
 		echo
-		echo "捐赠脚本作者: https://233v2.com/donate/"
+		echo "维护者: https://github.com/rootmelo92118"
+		echo
+		echo "原作者 Telegram 频道: https://t.me/tg2333"
+		echo
+		echo "捐赠脚本原作者: https://233v2.com/donate/"
 		echo
 		echo "捐助 V2Ray: https://www.v2ray.com/chapter_00/02_donate.html"
 		echo
