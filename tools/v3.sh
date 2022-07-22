@@ -108,7 +108,7 @@ mtproto_port=233
 mtproto_secret=lalala
 
 #---- 屏蔽 BT -----
-ban_bt=true
+ban_bt=false
 EOF
 
 . $backup
