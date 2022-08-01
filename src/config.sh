@@ -11,7 +11,7 @@ _load socks-config.sh
 _load mtproto-config.sh
 
 # ban bt
-_load ban_bt.sh
+# _load ban_bt.sh
 
 # ban ad
 _load ban_ad.sh
