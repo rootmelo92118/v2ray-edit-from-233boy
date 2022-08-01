@@ -115,7 +115,7 @@ mtproto_port=233
 mtproto_secret=lalala
 
 #---- 屏蔽 BT -----
-ban_bt=true
+ban_bt=false
 		EOF
 if [[ -f /usr/local/bin/v2ray ]]; then
 	cp -f /etc/v2ray/233boy/v2ray/v2ray.sh /usr/local/sbin/v2ray
